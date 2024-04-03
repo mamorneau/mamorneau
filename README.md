@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc-André Morneau
 - 👀 I’m interested in Node Red, Javascript, HTML, Arduino and networking
-- 🌱 I’m currently learning all of the above
+- 🌱 I’m currently learning Bootstrap 5.3
 - 💞️ I’m looking to collaborate on all of the above
 - 📫 How to reach me: ma.morneau.1@gmail.com
 
